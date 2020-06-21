@@ -1,6 +1,6 @@
 # DevOps
 
-## Things to learn why learning DevOps
+## Things to learn
 
 - [ ] Git
 - [ ] Jenkins setup by deploying Jenkins warfile into tomcat
